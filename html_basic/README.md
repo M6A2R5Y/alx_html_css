@@ -37,3 +37,20 @@ Repo:
 GitHub repository: alx_html_css
 Directory: html_basic
 File: index.html
+
+-2 Make a cool other webpage
+mandatory
+Copy your file base_index.html to tweets.html
+
+Add in the body of the page:
+
+embed at least one tweet (Here’s the official documentation from Twitter about embedding single tweets in a webpage’s HTML code.)
+contain a link to your index.html webpage, for users who may go back to your homepage
+In index.html, add a link to tweets.html, for users landing on your homepage, who want to see your tweets!
+
+Repo:
+
+GitHub repository: alx_html_css
+Directory: html_basic
+File: index.html, tweets.html
+
