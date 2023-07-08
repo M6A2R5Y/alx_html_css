@@ -1,7 +1,7 @@
 <h1 align="center">Html Advance</h1>
 <p>this project focuses on the HTML structure only - <b>no CSS</b>,<b>no style</b>-<b>just pure HTML semantic.</b></p>
 <h2>TASKS</h2>
-<h3>1.header</h3>
+<h3>1.Header</h3>
 <div>
     <p>Let's start by the top: the header <br> Here the wireframe of it:</p>
     <ol>
