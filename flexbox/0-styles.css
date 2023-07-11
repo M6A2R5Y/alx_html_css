@@ -11,7 +11,7 @@
     <style>
         .row{
         }
-        [class*='col'] {
+        [class*='col-'] {
         }
     </style>
   </head>
