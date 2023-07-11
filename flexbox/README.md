@@ -26,4 +26,20 @@
     <ul><li>git Repo</li><li>directory</li><li>file</li></ul>
 </div>   
 <h3>1. Add new classes on sections</h3>
-                  
+<div>
+    <p>Using the files from the previous task as the base for this task:<br>In the outermost section tag for services</p>
+    <ul>
+        <li>Add the class section-services<br>In the outermost section tag for works</li>
+        <li>Add the class section-works<br>In the outermost section tag for about</li>
+        <li>Add the class section-about-us<br>In the outermost section tag for latest_news</li>
+        <li>Add the class section-latest-news<br>In the outermost section tag for testimonial</li>
+        <li>Add the class section-testimonial<br>In the outermost section tag for contact</li>
+        <li>Add the class section-contact</li>
+    </ul>
+</div>
+ <div>
+    <p><b>Repo</b></p>
+    <ul><li>git Repo</li><li>directory</li><li>file</li></ul>
+</div> 
+<h3>2. Reverse order Latest news cards</h3>
+       
