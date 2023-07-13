@@ -213,7 +213,7 @@
     text-align: center;
   }
   .nav .nav-item + .nav-item {
-    margin: auto;
+    margin: 0 0 0 2rem;
   }
   .nav .nav-item {
     font-family: var(--nav-item-font-family);
