@@ -59,8 +59,7 @@
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
   
-    /** HEADER **/    
-    --header-padding: 4rem 0 0;
+    /** HEADER **/
     .header-container{
         display: flex;
         justify-content: space-between;        
