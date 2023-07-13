@@ -212,7 +212,9 @@
     list-style: none;
     text-align: center;
   }
-  
+  .nav .nav-item + .nav-item {
+  margin: 0 0 0 2rem;
+}
   .nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
